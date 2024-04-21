@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="videoSubirImg.gif" width="800"/>
+   <img src="videoSubirImg.gif" width="800" height="500"/>
 </div>
 <br>
 
